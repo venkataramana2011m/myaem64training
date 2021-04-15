@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/MyAEM64Training"/>
+    <filter root="/content/MyAEM64Training"/>
+    <filter root="/content/dam/MyAEM64Training"/>
+</workspaceFilter>
